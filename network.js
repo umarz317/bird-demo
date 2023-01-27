@@ -19,4 +19,4 @@ Used to set the network: https://chainlist.org/
 338 Cronos Testnet
 */
 
-window.web3ChainId = 97;
+window.web3ChainId = 80001;
